@@ -2,6 +2,8 @@
 
   - [Hacker News](http://news.ycombinator.com)
   - [Morning Reader](http://morningreader.com)
+  - [TechCrunch](http://techcrunch.com)
+  - [Inside](http://www.inside.com.tw)
   - [Product Hunt](http://www.producthunt.com)
   - [Watch People Code](http://www.watchpeoplecode.com)
   - [InfoQ (cn)](http://www.infoq.com/cn)
