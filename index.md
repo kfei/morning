@@ -1,15 +1,25 @@
 # Information Anxiety
 
   - [Hacker News](http://news.ycombinator.com)
-  - [Morning Reader](http://morningreader.com)
+  - [TNW](http://thenextweb.com/)
   - [TechCrunch](http://techcrunch.com)
+  - [Morning Reader](http://morningreader.com)
   - [Inside](http://www.inside.com.tw)
-  - [InfoQ (cn)](http://www.infoq.com/cn)
-  - [linux.cn](http://linux.cn)
-  - [Product Hunt](http://www.producthunt.com)
   - [angel.co](https://angel.co/companies/trending)
   - [CrunchBase](https://www.crunchbase.com)
+  - [灣區日報](http://wanqu.co/)
+
+
+  - [Product Hunt](http://www.producthunt.com)
+  - [Springwise](http://www.springwise.com/)
+
+
+  - [InfoQ (cn)](http://www.infoq.com/cn)
+  - [linux.cn](http://linux.cn)
   - [geek.csdn](http://geek.csdn.net)
-  - [Watch People Code](http://www.watchpeoplecode.com)
+
+
   - [unsplash](https://unsplash.com)
-  - [Crossing](http://www.cw.com.tw/blog/index.action)
+
+
+  - [換日線](http://www.cw.com.tw/blog/index.action)
