@@ -17,6 +17,7 @@
   - [InfoQ (cn)](http://www.infoq.com/cn)
   - [linux.cn](http://linux.cn)
   - [geek.csdn](http://geek.csdn.net)
+  - [Changelog](https://changelog.com/)
 
 
   - [unsplash](https://unsplash.com)
