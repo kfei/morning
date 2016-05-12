@@ -17,6 +17,7 @@
   - [InfoQ (cn)](http://www.infoq.com/cn)
   - [linux.cn](http://linux.cn)
   - [geek.csdn](http://geek.csdn.net)
+  - [FREEBUF](http://www.freebuf.com)
   - [Changelog](https://changelog.com/)
 
 
